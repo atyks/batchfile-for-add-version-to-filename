@@ -1,2 +1,10 @@
-# batchfile-for-add-version-to-filename
-batchfile for add version to filename
+# ファイル名にバージョン番号を追加するバッチファイル
+
+バッチファイルにバージョン番号をつけたいファイルをドラッグ・アンド・ドロップするとファイル名の末尾にバージョン番号が付きます
+ここでいうバージョン番号とはyyyymmddです
+
+ただ、それだけです
+
+## 例
+使用前のファイル名：hoge.txt
+使用後のファイル名：hoge.v20220724.txt
